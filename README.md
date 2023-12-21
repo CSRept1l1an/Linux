@@ -6,12 +6,16 @@ This repository contains all the scripts and files you need to get started with 
 Install Paramiko:
 
 Bash
+
 ```pip install paramiko```
+
 Use code with caution. Learn more
 Run the script:
 
 Bash
-python file_transfer.py
+
+```python file_transfer.py```
+
 Use code with caution. Learn more
 Provide the following information when prompted:
 

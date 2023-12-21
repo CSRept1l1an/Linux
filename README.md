@@ -7,14 +7,14 @@ Install Paramiko:
 
 Bash
 
-```pip install paramiko```
+`code`pip install paramiko`code`
 
 Use code with caution. Learn more
 Run the script:
 
 Bash
 
-```python file_transfer.py```
+`code`python file_transfer.py`code`
 
 Use code with caution. Learn more
 Provide the following information when prompted:

@@ -1,0 +1,5 @@
+# Bash
+*.sh linguist-detectable=true linguist-language=bash
+
+# Python
+*.py linguist-detectable=true linguist-language=python

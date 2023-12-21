@@ -6,7 +6,7 @@ This repository contains all the scripts and files you need to get started with 
 Install Paramiko:
 
 Bash
-pip install paramiko
+```pip install paramiko```
 Use code with caution. Learn more
 Run the script:
 
